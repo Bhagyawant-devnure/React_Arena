@@ -1,0 +1,41 @@
+{
+    "anime": [
+      {
+        "id": 1,
+        "name": "Luffy",
+        "series": "One Piece",
+        "description": "Luffy is the protagonist of One Piece, a pirate aiming to become the Pirate King.",
+        "image": "lofy.jifi",
+        "abilities": ["Gomu Gomu no Mi", "Haki", "Gear Second"],
+        "status": "Alive"
+      },
+      {
+        "id": 2,
+        "name": "Solo Living",
+        "series": "Solo Leveling",
+        "description": "The protagonist of Solo Leveling, he starts as a weak hunter but becomes the world's strongest.",
+        "image": "solo.jifi",
+        "abilities": ["Shadow Sovereign", "Superhuman Strength", "Fighting Skills"],
+        "status": "Alive"
+      },
+      {
+        "id": 3,
+        "name": "Gojo",
+        "series": "Jujutsu Kaisen",
+        "description": "Gojo is one of the strongest jujutsu sorcerers, with immense power and the Six Eyes.",
+        "image": "gojo.jfif",
+        "abilities": ["Limitless", "Six Eyes", "Cursed Technique Reversal"],
+        "status": "Alive"
+      },
+      {
+        "id": 4,
+        "name": "Light Yagami",
+        "series": "Death Note",
+        "description": "Light Yagami is a highly intelligent student who gains the Death Note and uses it to create a utopia.",
+        "image": "death.jfif",
+        "abilities": ["Death Note", "Genius Intellect", "Manipulation"],
+        "status": "Deceased"
+      }
+    ]
+  }
+  

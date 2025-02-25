@@ -1,0 +1,41 @@
+{
+    "cartoon": [
+      {
+        "id": 1,
+        "name": "Doraemon",
+        "series": "Doraemon",
+        "description": "Doraemon is a robotic cat from the future who helps Nobita with his problems using gadgets.",
+        "image": "doremon.jfif",
+        "abilities": ["Time Travel", "Gadgets", "Invisibility Cloak"],
+        "status": "Alive"
+      },
+      {
+        "id": 2,
+        "name": "Tom",
+        "series": "Tom and Jerry",
+        "description": "Tom is a mischievous cat always trying to catch Jerry, his clever mouse rival.",
+        "image": "tomjerry.jfif",
+        "abilities": ["Agility", "Cunning", "Strength"],
+        "status": "Alive"
+      },
+      {
+        "id": 3,
+        "name": "Oggy",
+        "series": "Oggy and the Cockroaches",
+        "description": "Oggy is a kind but lazy cat who faces trouble from the roaches that cause havoc in his house.",
+        "image": "oggy.jfif",
+        "abilities": ["Strength", "Courage", "Endurance"],
+        "status": "Alive"
+      },
+      {
+        "id": 4,
+        "name": "Hattori",
+        "series": "Ninja Hattori-kun",
+        "description": "Hattori is a ninja who helps his friends and ensures they don't get into trouble.",
+        "image": "Hattori-kun.jfif",
+        "abilities": ["Ninjutsu", "Stealth", "Agility"],
+        "status": "Alive"
+      }
+    ]
+  }
+  
